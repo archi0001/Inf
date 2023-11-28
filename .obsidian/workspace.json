@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08739b07d29da424",
+        "id": "33830abea83296a7",
         "type": "tabs",
         "children": [
           {
-            "id": "e8805c42ebd641d7",
+            "id": "49bc9c467cb2d768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 483.5
   },
   "right": {
     "id": "2385ee2f2c915b80",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "md/8 задание (Перебор слов и системы счисления).md"
               }
             }
           }
@@ -146,17 +146,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e8805c42ebd641d7",
+  "active": "49bc9c467cb2d768",
   "lastOpenFiles": [
+    "md/7 задание (Кодирование и декодирование).md",
+    "md/8 задание (Перебор слов и системы счисления).md",
+    "Файлы/8 задание (Перебор слов и системы счисления) 2.md",
+    "Файлы/8 задание (Перебор слов и системы счисления) 1.md",
+    "Файлы/8 задание (Перебор слов и системы счисления).md",
+    "md/9 задание (Работа с числами в таблице).md",
+    "Readme.md",
     "ObsidianReadme.md",
     "md/Справка по Python.md",
-    "Readme.md",
     "md/Справка по Exel.md",
-    "md/9 задание (Работа с числами в таблице).md",
-    "md/8 задание (Перебор слов и системы счисления).md",
     "md/5 задание (Анализ чисел в алгоритме).md",
     "md/6 задание (Черепаха).md",
-    "md/7 задание (Кодирование и декодирование).md",
     "md/4 задание (Деревья букв).md",
     "md/2 задание (Таблицы истинности).md",
     "md/3 задание (Сортировка в Exel).md",

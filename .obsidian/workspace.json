@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "49bc9c467cb2d768",
   "lastOpenFiles": [
-    "md/7 задание (Кодирование и декодирование).md",
     "md/8 задание (Перебор слов и системы счисления).md",
+    "Readme.md",
+    "md/6 задание (Черепаха).md",
+    "md/7 задание (Кодирование и декодирование).md",
     "Файлы/8 задание (Перебор слов и системы счисления) 2.md",
     "Файлы/8 задание (Перебор слов и системы счисления) 1.md",
     "Файлы/8 задание (Перебор слов и системы счисления).md",
     "md/9 задание (Работа с числами в таблице).md",
-    "Readme.md",
     "ObsidianReadme.md",
     "md/Справка по Python.md",
     "md/Справка по Exel.md",
     "md/5 задание (Анализ чисел в алгоритме).md",
-    "md/6 задание (Черепаха).md",
     "md/4 задание (Деревья букв).md",
     "md/2 задание (Таблицы истинности).md",
     "md/3 задание (Сортировка в Exel).md",

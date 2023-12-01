@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33830abea83296a7",
+        "id": "8fe455598737af5c",
         "type": "tabs",
         "children": [
           {
-            "id": "49bc9c467cb2d768",
+            "id": "b12490f25b6c7d39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/6 задание (Черепаха).md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/6 задание (Черепаха).md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/6 задание (Черепаха).md",
+                "file": "md/8 задание (Перебор слов и системы счисления).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/6 задание (Черепаха).md"
+                "file": "md/8 задание (Перебор слов и системы счисления).md"
               }
             }
           }
@@ -146,22 +146,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "49bc9c467cb2d768",
+  "active": "b12490f25b6c7d39",
   "lastOpenFiles": [
-    "Файлы/Pasted image 20231130223319.png",
+    "md/1 задание (Графы и таблицы).md",
+    "Файлы/Pasted image 20231201212754.png",
+    "Файлы/Pasted image 20231201212618.png",
+    "md/8 задание (Перебор слов и системы счисления).md",
+    "Файлы/Pasted image 20231201212533.png",
+    "Файлы/Pasted image 20231201211153.png",
+    "Файлы/Pasted image 20231201211017.png",
+    "Файлы/Pasted image 20231201210917.png",
+    "Файлы/Pasted image 20231201210851.png",
+    "Файлы/Pasted image 20231201210849.png",
+    "Файлы/Pasted image 20231201210838.png",
+    "Файлы/Pasted image 20231201210804.png",
     "md/6 задание (Черепаха).md",
-    "Файлы/Pasted image 20231130223128.png",
-    "Файлы/Pasted image 20231130222920.png",
-    "Файлы/Pasted image 20231130222811.png",
-    "Файлы/Pasted image 20231130222658.png",
-    "Файлы/Pasted image 20231130222634.png",
-    "Файлы/Pasted image 20231130222105.png",
-    "Файлы/Pasted image 20231130221958.png",
-    "Файлы/Pasted image 20231130220745.png",
-    "Файлы/Pasted image 20231130220552.png",
     "ObsidianReadme.md",
     "Readme.md",
-    "md/8 задание (Перебор слов и системы счисления).md",
     "md/7 задание (Кодирование и декодирование).md",
     "Файлы/8 задание (Перебор слов и системы счисления) 2.md",
     "Файлы/8 задание (Перебор слов и системы счисления) 1.md",
@@ -174,7 +175,6 @@
     "md/2 задание (Таблицы истинности).md",
     "md/3 задание (Сортировка в Exel).md",
     "md/11 задание (Пароли).md",
-    "md/1 задание (Графы и таблицы).md",
     "md/10 задание (Поиск символов в тексте).md",
     "md",
     "Файлы"

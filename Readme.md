@@ -1,6 +1,6 @@
 ### Проект по информатике для ЕГЭ
 ***
-Для установки скачиваем программу https://Obsidian.md
+Для установки скачиваем программу [Obsidian](https://Obsidian.md "Obsidian")
 
 
 ![Obsidian](https://github.com/archi0001/Inf/blob/main/Файлы/Снимок%20экрана%202023-11-28%20в%2020.45.06%20(2).png)

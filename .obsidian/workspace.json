@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/8 задание (Перебор слов и системы счисления).md"
+                "file": "Readme.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "3cc895c6c4da263b",
   "lastOpenFiles": [
-    "md/6 задание (Черепаха).md",
     "md/8 задание (Перебор слов и системы счисления).md",
+    "Файлы/Снимок экрана 2023-12-01 в 20.53.31.png",
+    "Файлы/Снимок экрана 2023-11-29 в 19.02.19.png",
+    "Файлы/Pasted image 20231202092230.png",
+    "Файлы/Pasted image 20231202090710.png",
+    "Файлы/Pasted image 20231202090257.png",
+    "Файлы/Pasted image 20231202090243.png",
+    "Файлы/Pasted image 20231202090117.png",
+    "Файлы/Pasted image 20231202090111.png",
+    "Файлы/Pasted image 20231202090029.png",
+    "Файлы/Pasted image 20231202090024.png",
+    "Файлы/9_27528.xlsx",
+    "Файлы/9_27520.xlsx",
+    "md/6 задание (Черепаха).md",
     "Readme.md",
     "ObsidianReadme.md",
     "md/Справка по Python.md",
@@ -163,19 +175,7 @@
     "md/3 задание (Сортировка в Exel).md",
     "md/2 задание (Таблицы истинности).md",
     "md/1 задание (Графы и таблицы).md",
-    "Файлы/Pasted image 20231202090710.png",
-    "Файлы/9_27528.xlsx",
-    "Файлы/Pasted image 20231202092230.png",
-    "Файлы/9_27520.xlsx",
     "9_27520.xlsx",
-    "Файлы/Pasted image 20231202083148.png",
-    "Файлы/Pasted image 20231202090257.png",
-    "Файлы/Pasted image 20231202090243.png",
-    "Файлы/Pasted image 20231202090117.png",
-    "Файлы/Pasted image 20231202090111.png",
-    "Файлы/Pasted image 20231202090029.png",
-    "Файлы/Pasted image 20231202090024.png",
-    "Файлы/Pasted image 20231202090005.png",
     "Без названия.canvas",
     "Файлы/8 задание (Перебор слов и системы счисления) 2.md",
     "Файлы/8 задание (Перебор слов и системы счисления) 1.md",
